@@ -180,3 +180,4 @@ project repository or to its website.
 
 This notice must not be removed, obscured, or replaced.
 */
+export default botConfig; // أو اسم متغير الإعدادات المعرف لديك
