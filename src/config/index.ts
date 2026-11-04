@@ -1,4 +1,4 @@
-/*
+ /*
 Ticket-Bot is licensed under the GNU Affero General Public License,
 version 3 only ("AGPL-3.0-only"). See LICENSE.md for the full license text.
 
@@ -180,4 +180,3 @@ project repository or to its website.
 
 This notice must not be removed, obscured, or replaced.
 */
-export default config;
