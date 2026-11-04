@@ -8,8 +8,6 @@ RUN bun install --frozen-lockfile
 
 COPY . .
 
-RUN bun run drizzle:push
-
 RUN mkdir -p /app/.data
 
 ENV NODE_ENV=production
