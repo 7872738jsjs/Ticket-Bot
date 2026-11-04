@@ -23,7 +23,7 @@ import { createLogger } from "@/core/logger";
 import { createHandlerRegistry, registerEvents } from "@/core/registry";
 import { InteractionRouter } from "@/core/router";
 import type { BotApp } from "@/core/types";
-import { defineConfig } from "./config";
+import { botconfig } from "./config";
 
 
 
