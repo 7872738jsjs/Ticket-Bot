@@ -12,6 +12,7 @@ project repository or to its website.
 
 This notice must not be removed, obscured, or replaced.
 */
+export default config;
 
 import type { Locales } from "../../i18n/i18n-types.js";
 
