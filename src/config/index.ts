@@ -165,7 +165,7 @@ export function defineConfig<V extends ConfigVersion>(version: V, config: Config
 		...config
 	};
 }
-
+export default config;
 /*
 Ticket-Bot is licensed under the GNU Affero General Public License,
 version 3 only ("AGPL-3.0-only"). See LICENSE.md for the full license text.
